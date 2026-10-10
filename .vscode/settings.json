@@ -1,0 +1,9 @@
+{
+    // 1. Keep your working Code Spell active for English & French typos
+    "cSpell.enable": true,
+    "cSpell.language": "en,fr",
+
+    // 2. Point the Vale extension directly to the local file you downloaded
+    "vale.core.path": "${workspaceFolder}/vale.exe",
+    "vale.enableFlex": true
+}
